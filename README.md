@@ -33,3 +33,35 @@ This enhancement demonstrates my ability to evaluate software design decisions, 
 [Download the Original and Enhanced Travlr Getaways Artifact](Travlr-Getaways-Artifact.zip)
 
 [View the Software Design and Engineering Enhancement Narrative](Travlr-Getaways-Enhancement-Narrative.docx)
+
+---
+
+## Algorithms and Data Structures
+
+### Weight Tracker
+
+Weight Tracker is an Android application built with Kotlin and SQLite that allows users to create an account, record and manage weight entries, set a goal weight, and track their weight history. I originally developed the application as part of my computer science coursework and selected it for my capstone because the stored weight data provided an opportunity to add more meaningful analysis.
+
+For my enhancement, I created a structured WeightEntry data class and added a WeightAnalyzer class to analyze the user's weight history. The application now calculates 7-day and 30-day averages, average weekly weight change, recent weight trends, possible plateaus, and an estimated goal date. I also improved date handling, chronological sorting, input validation, and added a Progress Analysis section to the Android interface.
+
+### Enhancement Highlights
+
+- Added a WeightEntry data class for structured weight records.
+- Added 7-day and 30-day calendar-based weight averages.
+- Calculated average weekly weight change.
+- Added increasing, decreasing, and stable trend detection.
+- Added plateau detection using recent weight measurements.
+- Added estimated goal-date calculations.
+- Sorted weight history chronologically using LocalDate values.
+- Added validation for weight values, entry IDs, and dates.
+- Added a Progress Analysis section to the user interface.
+
+### Course Outcomes
+
+This enhancement demonstrates my ability to design algorithms, organize data for analysis, and integrate new functionality into an existing application. The enhancement particularly supports Course Outcomes 3 and 4 through algorithm design, structured data processing, handling edge cases, and integrating Kotlin, SQLite, and the Android interface to provide more useful information to the user.
+
+### Project Files
+
+[Download the Original and Enhanced Weight Tracker Artifact](WeightTracker-Artifact.zip)
+
+[Download the Full Algorithms and Data Structures Enhancement Narrative](WeightTracker-Enhancement-Narrative.docx)
