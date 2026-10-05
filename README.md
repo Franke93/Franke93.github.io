@@ -27,3 +27,9 @@ For my enhancement, I added role-based access control with admin and viewer role
 ### Course Outcomes
 
 This enhancement demonstrates my ability to evaluate software design decisions, work across a full-stack application, and apply a security mindset. The enhancement particularly supports Course Outcomes 3, 4, and 5 through design trade-offs, integration of multiple technologies, role-based authorization, least privilege, and server-side validation.
+
+### Project Files
+
+[Download the Original and Enhanced Travlr Getaways Artifact](Travlr-Getaways-Artifact.zip)
+
+[View the Software Design and Engineering Enhancement Narrative](Travlr-Getaways-Enhancement-Narrative.docx)
