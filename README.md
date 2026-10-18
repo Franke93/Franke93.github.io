@@ -65,3 +65,38 @@ This enhancement demonstrates my ability to design algorithms, organize data for
 [Download the Original and Enhanced Weight Tracker Artifact](WeightTracker-Artifact.zip)
 
 [Download the Full Algorithms and Data Structures Enhancement Narrative](WeightTracker-Enhancement-Narrative.docx)
+
+---
+
+## Databases
+
+### Animal Shelter Dashboard
+
+The Animal Shelter Dashboard is a Python application that uses MongoDB to manage and analyze animal shelter records. I originally developed this project in CS 340 Client/Server Development. The application allows users to filter animal records by rescue category, view breed information through charts, and display animal locations on an interactive map.
+
+I selected this project for my capstone because I wanted to improve how the application interacts with its database. For my enhancement, I added MongoDB aggregation pipelines to handle breed analysis directly within the database and created a compound index to improve query performance. I also improved input validation, error handling, and database connection security by moving connection settings into environment variables. Another major change was converting the original Jupyter Notebook dashboard into a standalone Dash application while maintaining its filtering, charting, and mapping features.
+
+These improvements helped make the application more efficient, secure, and easier to maintain.
+
+### Enhancement Highlights
+
+- Added MongoDB aggregation pipelines for breed analysis.
+- Created a compound index to reduce the number of documents examined during database queries.
+- Improved filtering efficiency by reducing unnecessary document scans.
+- Moved database connection settings into environment variables.
+- Added input validation for database operations.
+- Improved exception handling and database error reporting.
+- Converted the original Jupyter Notebook dashboard into a standalone Dash application.
+- Maintained rescue category filtering, interactive charts, and location mapping.
+- Added testing scripts to evaluate database operations and query performance.
+
+### Course Outcomes
+
+This enhancement demonstrates my ability to evaluate database design decisions, improve query performance, and integrate database functionality with an existing application. The enhancement particularly supports Course Outcomes 3, 4, and 5 through database optimization, MongoDB aggregation, Python application development, input validation, and secure database configuration.
+
+### Project Files
+
+[Download the Original and Enhanced Animal Shelter Dashboard Artifact](AnimalShelterEnhancedAndOriginal.zip)
+
+[Download the Full Databases Enhancement Narrative](AnimalShelter-Enhancement-Narrative.docx)
+
