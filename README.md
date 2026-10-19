@@ -37,6 +37,16 @@ Finishing this degree has given me a stronger foundation in computer science and
 
 ---
 
+## Code Review
+
+As part of my CS 499 capstone, I recorded a code review of the three applications selected for my ePortfolio. During the review, I examined the original code, identified areas for improvement, and explained the enhancements I planned to make.
+
+The review covers software design and engineering, algorithms and data structures, and databases.
+
+[Watch My CS 499 Capstone Code Review](https://youtu.be/c76sqesBoCA)
+
+---
+
 ## Software Design and Engineering
 
 ### Travlr Getaways
